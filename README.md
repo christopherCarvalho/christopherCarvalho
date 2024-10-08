@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christopher Carvalho</h1>
 <h3 align="center">Information systems student in Downloading... 2/3</h3>
 
-- 🌱 I’m currently learning **Java, C#, HTML**
+- 🌱 I’m currently learning **Java, C#, HTML,CSS,Js,React,React-Native**
 
-- 💬 Ask me about **Unity - Game Engine**
+- 💬 Ask me about **Unity,Unreal,React-native**
 
 - 📫 How to reach me **christophercassius27@gmail.com**
 
