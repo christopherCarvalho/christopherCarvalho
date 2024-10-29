@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Carvalho</h1>
-<h3 align="center">Information systems student in Downloading... 2/3</h3>
+<h3 align="center">Information system analyst</h3>
 
 - 🌱 I’m currently learning **Java, C#, HTML,CSS,Js,React,React-Native**
 
